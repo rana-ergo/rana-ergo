@@ -18,4 +18,8 @@ Experienced Software Engineer with a demonstrated history of working in the comp
   <a href="https://twitter.com/ismailkuet" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ismailkuet" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rana-ergo&show_icons=true&locale=en&layout=compact" alt="Ismail H Rana" /> &nbsp; <img align="left" src="https://github-readme-stats.vercel.app/api?username=rana-ergo&show_icons=true&locale=en" alt="Ismail H Rana" /></p>
+
+![LeetCode Status](https://leetcard.jacoblin.cool/smile_forever?theme=dark&font=Roboto&ext=activity)
+
+
+  
