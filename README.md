@@ -8,7 +8,7 @@ Experienced Software Engineer with a demonstrated history of working in the comp
 
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Nodejs
-- 📫 How to reach me: rana@ergov.com
+- 📫 How to reach me: ismail.kuet@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
